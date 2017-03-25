@@ -1,0 +1,21 @@
+{
+  "name": "jquery-pagify",
+  "description": "A jQuery plugin for effortlessly creating single page web sites.",
+  "main": "jquery.pagify.js",
+  "authors": [
+    "Chris Polis"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jquery",
+    "one-page"
+  ],
+  "homepage": "https://github.com/cmpolis/Pagify",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
